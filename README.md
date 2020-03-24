@@ -1,2 +1,0 @@
-# github-assignment
-Github assignment 
